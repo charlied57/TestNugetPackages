@@ -4,7 +4,7 @@
     {
         public void Log(string text)
         {
-            Console.WriteLine("Hello " + text + " World");
+            Console.WriteLine("Hello World");
         }
     }
 }
