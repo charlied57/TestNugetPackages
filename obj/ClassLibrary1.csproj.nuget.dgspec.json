@@ -17,6 +17,7 @@
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+          "C:\\Users\\cdavis\\OneDrive - Arizona Auditor General\\Desktop\\PackageTest\\ClassLibrary1\\NuGet.Config",
           "C:\\Users\\cdavis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -26,8 +27,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\cdavis\\OneDrive - Arizona Auditor General\\Documents\\NuGetPackages": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/charlied57/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -36,6 +37,9 @@
           }
         },
         "warningProperties": {
+          "noWarn": [
+            "NU5105"
+          ],
           "warnAsError": [
             "NU1605"
           ]
@@ -44,6 +48,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "MinVer": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

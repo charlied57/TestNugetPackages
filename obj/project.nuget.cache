@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "V3IVhMJ9zakoVdeAU00BvXG5YfiyxjKFTFGMGzEn/WNhMoRA0kUW6vAsh0GZNx2tq7/35PYak+ODniUuYzmpAQ==",
+  "dgSpecHash": "lDi6q9YbNkNR8mi/k5x4zFND8UCyrMlcoaM+laGmb20ZdWNSNw5mLY90CKpa31vgykFG8swKlse1MO7Qb/SJxA==",
   "success": true,
   "projectFilePath": "C:\\Users\\cdavis\\OneDrive - Arizona Auditor General\\Desktop\\PackageTest\\ClassLibrary1\\ClassLibrary1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\cdavis\\.nuget\\packages\\minver\\4.3.0\\minver.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
