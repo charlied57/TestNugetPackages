@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>aagTestPackage</id>
+    <version>1.0.0</version>
+    <title>aag Test Package</title>
+    <authors>Charles Davis</authors>
+    <description>test</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\cdavis\OneDrive - Arizona Auditor General\Desktop\PackageTest\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll" target="lib\net6.0\ClassLibrary1.dll" />
+  </files>
+</package>

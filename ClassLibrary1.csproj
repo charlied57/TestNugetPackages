@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>aag Test Package</Title>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>aagTestPackage</PackageId>
+    <Description>test</Description>
+    <PackageProjectUrl>???</PackageProjectUrl>
+    <Authors>Charles Davis</Authors>
+  </PropertyGroup>
+
+</Project>
