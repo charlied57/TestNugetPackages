@@ -9,3 +9,4 @@ C:\Users\cdavis\OneDrive - Arizona Auditor General\Desktop\PackageTest\ClassLibr
 C:\Users\cdavis\OneDrive - Arizona Auditor General\Desktop\PackageTest\ClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary1.dll
 C:\Users\cdavis\OneDrive - Arizona Auditor General\Desktop\PackageTest\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
 C:\Users\cdavis\OneDrive - Arizona Auditor General\Desktop\PackageTest\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll
+C:\Users\cdavis\OneDrive - Arizona Auditor General\Desktop\PackageTest\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.AssemblyReference.cache

@@ -37,9 +37,6 @@
           }
         },
         "warningProperties": {
-          "noWarn": [
-            "NU5105"
-          ],
           "warnAsError": [
             "NU1605"
           ]
@@ -48,14 +45,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "MinVer": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[4.3.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
